@@ -1,8 +1,10 @@
-About
+# Readability Score Analysis
+
+## About
 
 Everyone has their own personal reading history, and as we grow up, we are able to comprehend more and more complicated texts. But how do you estimate the level of difficulty of a given text, and how do you teach a computer to do that? In this project, you will find it out: write a program that determines how difficult the text is and for which age it is most suitable.
 
-Description
+## Description
 In this stage, you should implement various other scientific approaches to calculate a readability score.
 
 Take a look at different ages and corresponding scores in the table in this article. This table is suitable for all the algorithms described in this stage. To calculate the age use the upper bound of the range. For example, if the range is 12-13 year olds then it's upper bound is 13 year olds.
